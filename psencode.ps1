@@ -1,4 +1,4 @@
-# Small script to decode a base64 and compressed Powershell script. 
+# Small script to encode and compress Powershell script to base64. 
 # To convert a file, call me like: .\psencode.ps1 -file C:\dir\script.ps1
 # To convert a command/string, call me like: .\psencode.ps1 -command "Write-Host 'Hello World'"
 # 
